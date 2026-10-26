@@ -1,0 +1,18 @@
+# Environments
+.venv/
+.uv/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Models saved by notebook 02
+models/
+
+# Editors and macOS
+.vscode/
+.DS_Store
